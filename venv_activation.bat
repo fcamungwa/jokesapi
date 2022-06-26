@@ -1,0 +1,1 @@
+C:\Users\fcamu\OneDrive\Documents\PYTHON\cheScrewAroundApps\chescrewaroundvenv\Scripts\activate.bat
